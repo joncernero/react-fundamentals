@@ -25,5 +25,4 @@ const ClockApp = () => {
     </div>
   )
 }
-
 export default ClockApp
